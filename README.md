@@ -28,6 +28,25 @@ Instead of scraping Pinterest’s HTML (which is against their terms), this proj
 <br>
 ![WhatsApp Image 2025-06-12 at 12 44 51](https://github.com/user-attachments/assets/20c0c330-cd72-4a10-a04b-22773d6e7bcb)
 
+## 🛠️ Tech Stack
+
+
+| Tool                                                           | Purpose                      |
+| -------------------------------------------------------------- | ---------------------------- |
+| [Python](https://www.python.org/)                              | Backend logic                |
+| [Pinterest API](https://developers.pinterest.com/docs/api/v5/) | Pin data source              |
+| [Streamlit](https://streamlit.io/)                             | Frontend web UI              |
+| `pandas`, `requests`                                           | Data handling and HTTP calls |
+
+
+## 🗂 Project Structure
+📁 pinterest-image-scraper/
+├── app.py                 
+├── requirements.txt      
+├── .streamlit/secrets.toml 
+└── README.md             
+
+
 ## Use Cases
 
 - Moodboard creation

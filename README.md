@@ -19,7 +19,7 @@ It uses their official API, ensuring it complies with their Developer Guidelines
 
 ## 🙌 Acknowledgements
 Made with ❤️ using:
-
+<p align="center"> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" height="40"/> </p>
 
 ## 📮 Connect With Me
 📧 Email: jchandrika67@gmail.com

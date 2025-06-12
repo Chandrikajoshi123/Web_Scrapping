@@ -40,11 +40,11 @@ This project is a Pinterest-style image board built using Python and Streamlit. 
 
 | Tool                                                           | Purpose                      |
 | -------------------------------------------------------------- | ---------------------------- |
-| [Python](https://www.python.org/)                              | Backend logic                |
-| [Pinterest API](https://developers.pinterest.com/docs/api/v5/) | Pin data source              |
-| [Streamlit](https://streamlit.io/)                             | Frontend web UI              |
-| `pandas`, `requests`                                           | Data handling and HTTP calls |
-
+| Python (Simulated API functions)                          | Backend logic                |
+| Streamlit  |  Frontend             |
+|     Pinterest-style layout using local & dummy images                         | Design              |
+| VS Code                                           |  IDE|
+|Git + GitHub    |Version Control|
 
 
 ## Use Cases

@@ -18,11 +18,11 @@ This project is a Pinterest-style image board built using Python and Streamlit. 
 - Loads dynamic images using Unsplash URLs and local image assets
 - Built to understand API integration through a fun, visual approach
 
-## 📌 Why Pinterest?
+## 📌 Why Simulated API?
+ I originally planned to use the official Pinterest API but didn’t receive access in time. So, I created dummy data to mimic how an API-powered image board would function. It helped me learn the architecture, logic, and structure behind real API calls and how they power visual platforms.
+- ⚠️ Disclaimer: This project is educational and personal. It is not affiliated with or endorsed by Pinterest in any way. The Pinterest logo and mock UI images are used under fair use for non-commercial, educational demonstration purposes only.
 
-Pinterest is one of the most visually-rich platforms on the web. With categories ranging from fashion and home décor to food and travel, it’s a treasure trove of design, trends, and creative ideas.
 
-Instead of scraping Pinterest’s HTML (which is against their terms), this project leverages their Developer API, ensuring ethical, stable, and future-proof access to pin data.
 🔗 Pinterest for Developers
 <br>
 ![WhatsApp Image 2025-06-12 at 12 44 51](https://github.com/user-attachments/assets/20c0c330-cd72-4a10-a04b-22773d6e7bcb)

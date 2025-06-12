@@ -170,5 +170,12 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 
+# Ignore config/secrets
+config.json
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+
+
 # PyPI configuration file
 .pypirc

@@ -88,7 +88,7 @@ Made with ❤️ using:
 ---
 
 <p align="center">
-  <em>🪞 Collect things you love. Create a life you adore. — Pinterest✨</em>
+  <em>🪞 Collect things you love. Create a life you adore.✨</em>
 </p>
 
 <br>

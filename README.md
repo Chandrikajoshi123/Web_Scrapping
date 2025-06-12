@@ -73,6 +73,13 @@ This project is a Pinterest-style image board built using Python and Streamlit. 
 Made with ❤️ using:
 <p align="center"> <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" height="40"/> </p>
 
+
+## 🌱 Future Enhancements
+- Real API integration (Pinterest/Unsplash)
+- Add login and save board features
+- Expand to multi-category searches
+- Deploy on Streamlit Cloud or Hugging Face Spaces
+
 ## 📮 Connect With Me
 📧 Email: jchandrika67@gmail.com
 <br>
@@ -84,6 +91,6 @@ Made with ❤️ using:
   <em>🪞 Collect things you love. Create a life you adore. — Pinterest✨</em>
 </p>
 
----![WhatsApp Image 2025-06-12 at 14 19 07](https://github.com/user-attachments/assets/a552e370-b43d-4816-badc-1190d4303da8)
+
 
 ⚠️ Note: This project originally intended to use the Pinterest API. Due to access restrictions, a simulated API-like structure was implemented to replicate similar functionality using static and placeholder data. This adaptation was necessary to continue learning and demonstrating core concepts effectively.

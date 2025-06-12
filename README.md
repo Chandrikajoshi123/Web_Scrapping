@@ -39,13 +39,6 @@ Instead of scraping Pinterest’s HTML (which is against their terms), this proj
 | `pandas`, `requests`                                           | Data handling and HTTP calls |
 
 
-## 🗂 Project Structure
-📁 pinterest-image-scraper/
-├── app.py                 
-├── requirements.txt      
-├── .streamlit/secrets.toml 
-└── README.md             
-
 
 ## Use Cases
 

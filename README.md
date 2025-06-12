@@ -10,15 +10,13 @@
 
 ![WhatsApp Image 2025-06-12 at 12 05 21](https://github.com/user-attachments/assets/9bbcaa68-893d-49f9-b962-fa627bdfa57b)
 
-This project is a Pinterest Image Scraper that uses the official Pinterest API to fetch images based on user-defined search keywords. It’s built with Python and features a simple, user-friendly interface using Streamlit.
+This project is a Pinterest-style image board built using Python and Streamlit. It mimics how APIs work, specifically for visual content fetching — using simulated data to demonstrate a real-world image scraping concept.
 
-## Features
-
-- Search for pins using any keyword (e.g. "aesthetic workspace", "vintage outfits")
-- Fetch up to 100 images per term using official API pagination
-- View pins in a Pinterest-like 5-column layout
-- Download pin metadata (title, description, image URL) as CSV
-- Secure access token management via Streamlit secrets
+ ## What This Project Does
+- Mimics an image search feature using simulated API logic
+- Showcases an aesthetic, Pinterest-inspired UI layout
+- Loads dynamic images using Unsplash URLs and local image assets
+- Built to understand API integration through a fun, visual approach
 
 ## 📌 Why Pinterest?
 

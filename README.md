@@ -47,25 +47,27 @@ This project is a Pinterest-style image board built using Python and Streamlit. 
 |Git + GitHub    |Version Control|
 
 
-## Use Cases
-
-- Moodboard creation
-- Design inspiration
-- Data analysis for trends
-- Academic research in visual media
-- Building Pinterest-like UIs with real data
 
 ## Learning Outcomes
 
-- Real API integration with Python
+- API structure and request-response cycles
+- Simulating API logic with Python functions
+- UI design using Streamlit components
+- Managing real-world limitations with creative development approaches
 - Working with JSON responses
 - Building a clean, modern web UI
-- Managing API credentials securely
-- Ethical data access practices
-  
-## 📎 Legal Note
-This project does not scrape Pinterest web pages.
-It uses their official API, ensuring it complies with their Developer Guidelines. Always use API keys responsibly.
+
+# Project Preview
+![image](https://github.com/user-attachments/assets/dd3c092c-8227-498d-b758-c3bb611605af)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/a91ee15e-4846-4dbf-93ec-68f64fa83c7d)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/9a556700-f2ed-4842-b0f9-0d0a020b442a)
+
 
 ## 🙌 Acknowledgements
 Made with ❤️ using:

@@ -86,4 +86,4 @@ Made with ❤️ using:
 
 ---![WhatsApp Image 2025-06-12 at 14 19 07](https://github.com/user-attachments/assets/a552e370-b43d-4816-badc-1190d4303da8)
 
-
+⚠️ Note: This project originally intended to use the Pinterest API. Due to access restrictions, a simulated API-like structure was implemented to replicate similar functionality using static and placeholder data. This adaptation was necessary to continue learning and demonstrating core concepts effectively.

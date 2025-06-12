@@ -1,4 +1,4 @@
-# Pinterest Image Scraper using API 📌
+# Pinterest-Inspired Image Scraper (API Simulation) 📌
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" alt="Pinterest Logo" width="120"/> </p> <p align="center">
   <b>Hey there, welcome to the aesthetic corner of GitHub! 🌸 <br>
   This repository lets you tap into Pinterest's visual magic with just a search word. ✨</b>

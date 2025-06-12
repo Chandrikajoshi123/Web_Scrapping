@@ -7,6 +7,7 @@
 
 <br>
 
+
 ![WhatsApp Image 2025-06-12 at 12 05 21](https://github.com/user-attachments/assets/9bbcaa68-893d-49f9-b962-fa627bdfa57b)
 
 This project is a Pinterest Image Scraper that uses the official Pinterest API to fetch images based on user-defined search keywords. It’s built with Python and features a simple, user-friendly interface using Streamlit.
@@ -27,6 +28,14 @@ Instead of scraping Pinterest’s HTML (which is against their terms), this proj
 🔗 Pinterest for Developers
 <br>
 ![WhatsApp Image 2025-06-12 at 12 44 51](https://github.com/user-attachments/assets/20c0c330-cd72-4a10-a04b-22773d6e7bcb)
+
+
+---
+
+🌸 **Scroll down for features, setup, and how to make your own magic!** ✨
+
+---
+
 
 ## 🛠️ Tech Stack
 
@@ -66,3 +75,13 @@ Made with ❤️ using:
 
 ## 📮 Connect With Me
 📧 Email: jchandrika67@gmail.com
+<br>
+<br>
+
+---
+
+<p align="center">
+  <em>🪞 Collect things you love. Create a life you adore. — Pinterest✨</em>
+</p>
+
+---

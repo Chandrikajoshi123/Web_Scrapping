@@ -91,6 +91,8 @@ Made with ❤️ using:
   <em>🪞 Collect things you love. Create a life you adore. — Pinterest✨</em>
 </p>
 
+<br>
 
+___
 
 ⚠️ Note: This project originally intended to use the Pinterest API. Due to access restrictions, a simulated API-like structure was implemented to replicate similar functionality using static and placeholder data. This adaptation was necessary to continue learning and demonstrating core concepts effectively.

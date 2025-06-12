@@ -5,6 +5,14 @@
 
 This project is a Pinterest Image Scraper that uses the official Pinterest API to fetch images based on user-defined search keywords. It’s built with Python and features a simple, user-friendly interface using Streamlit.
 
+## Use Cases
+
+- Moodboard creation
+- Design inspiration
+- Data analysis for trends
+- Academic research in visual media
+- Building Pinterest-like UIs with real data
+
 ## Learning Outcomes
 
 - Real API integration with Python

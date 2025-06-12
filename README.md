@@ -1,9 +1,17 @@
-# Pinterest Image Scraper using API
+# Pinterest Image Scraper using API 📌
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" alt="Pinterest Logo" width="120"/> </p> <p align="center">
+  <b>Hey there, welcome to the aesthetic corner of GitHub! 🌸 <br>
+  This repository lets you tap into Pinterest's visual magic with just a search word. ✨</b>
+</p>
+<br>
 
+<br>
 
 ![WhatsApp Image 2025-06-12 at 12 05 21](https://github.com/user-attachments/assets/9bbcaa68-893d-49f9-b962-fa627bdfa57b)
 
 This project is a Pinterest Image Scraper that uses the official Pinterest API to fetch images based on user-defined search keywords. It’s built with Python and features a simple, user-friendly interface using Streamlit.
+
+
 
 ## Use Cases
 
